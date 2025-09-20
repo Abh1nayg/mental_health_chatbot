@@ -1,0 +1,11 @@
+fastapi
+uvicorn[standard]
+requests
+python-dotenv
+firebase-admin
+pydantic
+httpx
+pytest
+sentry-sdk
+transformers
+torch
